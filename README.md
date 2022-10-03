@@ -1,2 +1,2 @@
-mygithubpage
+Home Page
 ============
